@@ -7,7 +7,7 @@ const Contact = () => {
     <Container className='bg-zinc-100 flex flex-col items-center justify-center'>
         <Title title="My Contact"></Title>
         <hr className='hrStyle'></hr>
-        <div className=' flex flex-col  justify-center gap-3 bg-background text-zinc-100 w-[500px] auto p-10'>
+        <div className=' flex flex-col  justify-center gap-3 bg-background text-zinc-100 w-1/2 auto p-10'>
         
       
        <p className=''>Name  </p>
